@@ -1,9 +1,14 @@
-# Dual Shift: credits and provenance
+# Dual Shift: third-party notices
 
-Customized edition: **Khoat0360**.
+Customized edition: **Trần Nguyễn Ngọc Khoa (Khoat0360)**.
 
-Original project: Light Switch by Elie Pernet, Long Nguyen Huu and Rayane Nejdi. Original code is covered by CODE LICENSE.md; assets by ASSETS LICENSE.md (CC BY-NC-SA 4.0).
+Repository: https://github.com/tnnkhoa3006/game-jam.git
 
-Source: https://github.com/eliepernet/global-game-jam-2022
+Game code license: [CODE LICENSE.md](CODE%20LICENSE.md).
+Asset license: [ASSETS LICENSE.md](ASSETS%20LICENSE.md).
 
-Changes in this edition: game branding, company/application identifiers, and source attribution headers. Original gameplay remains unchanged. Original copyright notices, asset credits, and bundled third-party licenses are retained. Khoat0360 is credited for this customized edition, not as the original author of third-party code or assets.
+Bundled third-party libraries retain their own licenses and copyright notices:
+
+- UnityToolbag: see `Assets/script/Editor/UnityToolbag/LICENSE`.
+- GitHub for Unity: see notices in `Assets/Plugins/GitHub/Editor/`.
+- TextMesh Pro fonts: see `Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt`.

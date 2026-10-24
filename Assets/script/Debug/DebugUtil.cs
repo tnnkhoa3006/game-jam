@@ -1,7 +1,5 @@
-// Dual Shift - customized edition by Khoat0360.
-// Original authors and licenses: see THIRD_PARTY_NOTICES.md in the project root.
-// hsandt: originally copied from my own script at
-// https://bitbucket.org/hsandt/unity-commons-debug/src/develop/DebugUtil.cs
+// Dual Shift - customized edition by Trần Nguyễn Ngọc Khoa (Khoat0360).
+// Licenses: see CODE LICENSE.md and THIRD_PARTY_NOTICES.md in the project root.
 // but removed many unused methods to avoid extra dependencies
 
 using UnityEngine;

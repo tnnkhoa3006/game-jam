@@ -1,7 +1,5 @@
-// Dual Shift - customized edition by Khoat0360.
-// Original authors and licenses: see THIRD_PARTY_NOTICES.md in the project root.
-// hsandt: Most scripts in MainMenu folder are based on my own:
-// https://github.com/hsandt/dragon-raid/tree/develop/Assets/Scripts/Menu
+// Dual Shift - customized edition by Trần Nguyễn Ngọc Khoa (Khoat0360).
+// Licenses: see CODE LICENSE.md and THIRD_PARTY_NOTICES.md in the project root.
 // (MIT License)
 
 using System;
